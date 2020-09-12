@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:10
+#EXTINF:10,
+http://tv.dflix.live/player.php?stream=41
